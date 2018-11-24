@@ -94,3 +94,6 @@
 .stream-item-footer {
   display: none !important;
 }
+.CardContent {
+  max-width: 500px !important;
+}
