@@ -1,0 +1,96 @@
+.avatar {
+	border-radius: 10px !important;
+}
+#page-container {
+	background: #4d394b;	
+	width: 100% !important;
+  margin-right: 0px !important;
+  padding: 0px !important;
+}
+.dashboard-left {
+  width: unset !important;
+}
+.dashboard-right {
+  display: none !important;
+}
+.DashboardProfileCard {
+  display: none !important;
+}
+.nav {
+  padding-left: 20px !important;
+}
+.nav#global-actions>li .Icon {
+  display: none !important;
+}
+.global-nav .pull-right .right-actions {
+  display: none !important;
+}
+.content-main {
+  width: 80% !important;
+  float: right !important;
+  margin: 0px !important;
+  padding-top: 46px !important;
+}
+.Trends {
+  background-color: unset !important;
+  border: none !important;
+  position: fixed !important;
+}
+.flex-module-header {
+  margin-bottom: 30px !important;
+}
+.trend-location {
+  color: #fff !important;
+}
+.trend-item > a {
+  color: rgb(202,196,201) !important;
+}
+.trend-name {
+  font-weight: unset !important;
+}
+.trend-item-stats {
+  display: none !important;
+}
+.change-trends {
+  color: #fff !important;
+}
+.global-nav {
+  width: 80% !important;
+  float: right !important;
+}
+.bird-topbar-etched {
+  display: none !important;
+}
+.timeline-tweet-box {
+  position: fixed !important;
+  bottom: 0px !important;
+  z-index: 100 !important;
+  width: 80% !important;
+}
+.home-tweet-box {
+  background-color: white !important;
+  padding: 10px !important;
+}
+.top-timeline-tweet-box-user-image {
+  display: none !important;
+}
+.tweet-form {
+  margin: 0px !important;
+}
+.RichEditor {
+  border-color: #CCC !important;
+  box-shadow: 0 0 0 2px #CCC !important;
+  border-radius: 5px !important;
+}
+#global-actions > li:hover > a, #global-actions > li > a:focus, #global-actions > li.active .text, .DashUserDropdown.dropdown-menu .nightmode-toggle .Icon, .nav.right-actions > li > a:hover, .nav.right-actions > li > a:focus {
+  color: unset !important;
+}
+.moments {
+  display: none !important;
+}
+.btn-link.translate-button {
+  display: none !important;
+}
+.stream-item-footer {
+  display: none !important;
+}

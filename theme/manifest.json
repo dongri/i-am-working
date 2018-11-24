@@ -1,0 +1,29 @@
+{
+  "name": "I am working",
+  "version": "0.0.1",
+  "description": "I am working",
+  "manifest_version": 2,
+  "background":{
+    "scripts":["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://twitter.com/*",
+        "https://twitter.com/*"
+      ],
+      "css": [
+        "theme.css"
+      ],
+      "js": [
+        "jquery.js",
+        "theme.js"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "theme.png"
+  },
+  "permissions": [
+  ]
+}
