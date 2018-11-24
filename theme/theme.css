@@ -95,5 +95,8 @@
   display: none !important;
 }
 .CardContent {
-  max-width: 500px !important;
+  max-width: 300px !important;
+}
+.AdaptiveMedia {
+  max-width: 300px !important;
 }
