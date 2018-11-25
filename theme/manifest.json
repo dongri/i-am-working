@@ -1,6 +1,6 @@
 {
   "name": "I am working",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "I am working",
   "manifest_version": 2,
   "background":{
@@ -9,8 +9,8 @@
   "content_scripts": [
     {
       "matches": [
-        "http://twitter.com/*",
-        "https://twitter.com/*"
+        "https://twitter.com/",
+        "https://twitter.com/i/notifications/"
       ],
       "css": [
         "theme.css"

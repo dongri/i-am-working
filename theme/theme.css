@@ -23,6 +23,9 @@
   display: none !important;
 }
 .global-nav .pull-right .right-actions {
+  margin-right: 10px !important;
+}
+.topbar-tweet-btn {
   display: none !important;
 }
 .content-main {
@@ -91,12 +94,7 @@
 .btn-link.translate-button {
   display: none !important;
 }
+
 .stream-item-footer {
-  display: none !important;
-}
-.CardContent {
-  max-width: 300px !important;
-}
-.AdaptiveMedia {
-  max-width: 300px !important;
+  /* display: none !important; */
 }
